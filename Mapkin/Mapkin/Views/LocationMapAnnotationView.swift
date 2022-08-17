@@ -5,6 +5,7 @@
 //  Created by yury mid on 15.08.2022.
 //
 
+
 import SwiftUI
 
 struct LocationMapAnnotationView: View {
